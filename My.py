@@ -11,7 +11,7 @@ st.image(image, width=200)
 
 st.write("""
 # XGBoost classifier for bridge scour risk prediction
-This application is trained on a French SNCF dataset to predict bridge pier's scour risk. 
+This classfieir is trained and tested by using an SNCF dataset with the aim to predict the bridge pier scour risk. 
 """)
 
 st.sidebar.header('User Input Parameters')
