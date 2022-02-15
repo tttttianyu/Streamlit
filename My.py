@@ -108,7 +108,7 @@ st.subheader('SHAP global plot')
 image = Image.open('Bar_plot.png')
 st.image(image, width=800)
 
-st.subheader('SHAP global plot')
+st.subheader('SHAP summary plot')
 image = Image.open('summary_plot.png')
 st.image(image, width=800)
 
